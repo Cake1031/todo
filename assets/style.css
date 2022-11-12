@@ -1,0 +1,44 @@
+.complete {
+    text-decoration: line-through;
+}
+
+body {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+h1 {
+    color:  deeppink;
+}
+
+input {
+    background-color: white;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    padding: 8px;
+    font-size: 18px;
+    width: 50%;
+}
+
+div {
+    margin: 0.5cm auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+    width: 60%;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    width: 60%;
+    font-size: 18px;
+    margin: 20px auto;
+    padding: 10px 0;
+    border: 1px solid lightgray;
+    border-bottom: 5px solid rgba(128, 128, 128, 0.3);
+    border-radius: 5px;
+}
